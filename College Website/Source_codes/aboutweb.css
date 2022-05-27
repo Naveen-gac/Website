@@ -1,0 +1,38 @@
+#head{
+    background: linear-gradient(90deg, #A24A4A 13%, #F5ECEC 77%);
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: aqua;
+}
+h3{
+    color:black;
+    font: 25px;
+}
+.one{
+    font-size: 35px;
+    color: blue     ;
+}
+.option{
+   background-color: aqua;
+    border: 2px solid yellow;
+    margin: 0 300px;
+   border-radius: 50px;
+   box-shadow: 20px 18px 10px 0px #000;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    margin: 5px;
+    color: yellowgreen;
+}
+ul{
+    color: black;
+    font-size: 125%;
+}
+.book1{
+    padding: 1px 500px;
+}

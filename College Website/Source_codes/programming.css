@@ -1,0 +1,148 @@
+body{
+    background: linear-gradient(90deg, rgba(243, 255, 246, 0.93) 0%, #E8DDE8 19%);
+}
+#h-one{
+    text-align: center;
+    border: 2px solid grey;
+    border-radius: 5px;
+    background-color: yellowgreen;
+    color: black;
+    font-size: 50px;
+    font-family: serif;
+    margin: 20px 300px;
+    padding: 2% 2%;   
+}
+span{
+    font-size: 70px;
+}
+#main{
+    background-color:#564d4d;
+    border-style: solid;
+    border-top: 15px;
+    border-bottom: 15px;
+    border-left:none;
+    border-right:none;
+    text-align: center;
+    padding: 0;
+}
+#main h2{
+    color: white;
+    font-size: 70px;
+    font-weight: bold;
+} 
+#main span {
+    color: rosybrown;
+    font-size: 50px;
+    font-weight: bold;    
+}
+#main h2 #two{
+    color: white;
+    font-size: 20px;
+    font-weight: bold; 
+}
+#main h2 #three{
+    color: black;
+    font-size: 15px;
+    font-weight: bold; 
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 50px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+}
+#text{
+    font-size: 80px;
+}
+h3{
+    font-size: 30px;
+    font-family: serif;
+}
+.container{
+    background-color: aqua;
+    display: flex;
+}
+.container2{
+    background-color: rgb(229, 255, 0);
+    display: flex;
+}
+.container3{
+    background-color: rgb(255, 0, 255);
+    display: flex;
+}
+.container4{
+    background-color: rgb(76, 155, 230);
+    display: flex;
+}
+.container5{
+    background-color: rgb(219, 230, 240);
+    display: flex;
+}
+.container6{
+    background-color: rgb(234, 95, 95);
+    display: flex;
+}
+.container7{
+    background-color: rgb(234, 168, 15);
+    display: flex;
+}
+.container8{
+    background-color: rgb(15, 234, 30);
+    display: flex;
+}
+.container9{
+    background-color: rgb(4, 87, 210);
+    display: flex;
+}
+.container10{
+    background-color: rgb(243, 5, 33);
+    display: flex;
+}
+.container11{
+    background-color: rgb(106, 182, 253);
+    display: flex;
+}
+.container12{
+    background-color: rgb(233, 187, 213);
+    display: flex;
+}
+.container13{
+    background-color: rgb(17, 227, 38);
+    display: flex;
+}
+.container14{
+    background-color: rgb(227, 17, 185);
+    display: flex;
+}
+.container15{
+    background-color: rgb(54, 169, 231);
+    display: flex;
+}
+.container16{
+    background-color: rgb(166, 43, 43);
+    display: flex;
+}
+
+.text{
+    padding: 20px 90px ;
+}
+#ms{
+    font-size: 60px;
+}
+.images{
+    padding: 50px 170px;
+}
+.images-js{
+    padding: 40px 70px;
+}
+
+
+
+
+

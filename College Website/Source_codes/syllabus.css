@@ -1,0 +1,36 @@
+.head{
+    text-align: center;
+    background: linear-gradient(90deg, #24CECE 0%, #1DB56A 63%, #6713C5 100%);
+}
+h1{
+  color: beige;
+  font-family: serif;
+  font-size: 60px;
+}
+span{
+    color: antiquewhite;
+    font-size: 30px;
+}
+p{
+    color: blanchedalmond;
+}
+h2{
+    text-align: center;
+    font-size: 70px;
+    color: black;
+    background-color: antiquewhite;
+}
+button{
+  text-decoration: none;
+  margin-left: 45%;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #010101;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  background-color: blueviolet;
+}
+button:hover{
+    background-color: aqua;
+    text-decoration: none;
+}

@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(187, 205, 220);
+}
+.head{
+    text-align: center;
+    background-color: gray;
+   
+}
+h1{
+    color: white;
+    font-size: 50px;
+}
+h2{
+    font-family: serif;
+    text-align: center;
+    font-size: 40px;
+}
+span{
+    font-size: 35px;
+    color:red;
+}
+summary{
+    text-align: center;
+    font-family: serif;
+    font-size: 50px;
+    border: 5px solid gray;
+    margin: 40px 400px ;
+    border-radius: 40px;
+    background-color: aliceblue;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 10px;
+}
+.boo{
+    padding: 2px 150px;
+}
+img{
+    width: 1000px;
+    height: 450px;
+}
+
+
